@@ -21,12 +21,15 @@ This project uses the famous Titanic dataset to build a predictive model that es
 Make sure you have Python installed along with the required dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+git clone [https://github.com/marnex002/Titanic-Survival-Prediction-project.git](https://github.com/marnex002/Titanic-Survival-Prediction-project.git)
+cd Titanic-Survival-Prediction-project
+python main.py
 
 
-##Results & Insights
+Results & Insights
 Key predictors for survival included passenger gender (Sex), class (Pclass), and age (Age).
 
 Females and higher-class passengers had significantly higher rates of survival.
 
-##Contributing
+Contributing
 Contributions and suggestions are welcome! Feel free to fork this repository and submit a pull request.
